@@ -1,0 +1,4 @@
+Sample PDF Content for Testing PDF Parser Service.
+Medication: TestMed 100mg
+Quantity: 50
+Expiry: 12/2025
